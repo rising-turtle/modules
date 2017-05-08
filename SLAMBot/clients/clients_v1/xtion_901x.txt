@@ -1,0 +1,6 @@
+SET DISK_SIGN="D:"
+SET X_NUM="xtion_9010"
+SET DATA_DIR="%DISK_SIGN%\ZhangHe\%X_NUM%\data\%DATE:~0,4%%DATE:~5,2%%DATE:~8,2%-%TIME:~0,2%%TIME:~3,2%%TIME:~6,2%"
+MKDIR %DATA_DIR% %DATA_DIR%\rgb %DATA_DIR%\depth %DATA_DIR%\log
+START /D%DATA_DIR% "XTION" "%DISK_SIGN%\ZhangHe\%X_NUM%\bin\%X_NUM%.exe"
+

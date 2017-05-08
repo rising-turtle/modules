@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/data/svn/flirtlib/!svn/ver/6/trunk/src/sensorstream
+END
+LogWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/flirtlib/!svn/ver/5/trunk/src/sensorstream/LogWriter.h
+END
+CarmenLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/flirtlib/!svn/ver/1/trunk/src/sensorstream/CarmenLog.cpp
+END
+LogSensorStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/data/svn/flirtlib/!svn/ver/1/trunk/src/sensorstream/LogSensorStream.cpp
+END
+LogReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/flirtlib/!svn/ver/5/trunk/src/sensorstream/LogReader.h
+END
+SensorStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/5/trunk/src/sensorstream/SensorStream.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/1/trunk/src/sensorstream/CMakeLists.txt
+END
+CarmenLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/flirtlib/!svn/ver/6/trunk/src/sensorstream/CarmenLog.h
+END
+LogSensorStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/data/svn/flirtlib/!svn/ver/1/trunk/src/sensorstream/LogSensorStream.h
+END

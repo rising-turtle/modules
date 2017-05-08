@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/data/svn/flirtlib/!svn/ver/1/trunk/src/build_tools
+END
+FindQwt5.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/flirtlib/!svn/ver/1/trunk/src/build_tools/FindQwt5.cmake
+END
+FindCairo.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/1/trunk/src/build_tools/FindCairo.cmake
+END

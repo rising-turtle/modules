@@ -1,0 +1,6 @@
+xtion_only = 1 # only start xtion 
+server_ip = 192.168.0.14 # server ip address
+xtion_port = 9013 
+sick_port = 9015
+odo_port = 9016
+send_step = 8 # every step send image to server

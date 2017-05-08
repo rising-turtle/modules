@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/data/svn/flirtlib/!svn/ver/5/trunk/src/gui
+END
+BoxParameterWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/BoxParameterWidget.h
+END
+InterestPointRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/InterestPointRenderer.h
+END
+FeatureSetMatcherPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/FeatureSetMatcherPresenter.cpp
+END
+MultiScaleDetectorPlotWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleDetectorPlotWidget.h
+END
+RansacPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/RansacPresenter.h
+END
+CorrespondenceRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/data/svn/flirtlib/!svn/ver/5/trunk/src/gui/CorrespondenceRenderer.h
+END
+PeakFinderPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/PeakFinderPresenter.h
+END
+DetectorPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/DetectorPresenter.h
+END
+RendererWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/RendererWidget.cpp
+END
+SimplePeakFinderPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/SimplePeakFinderPresenter.cpp
+END
+DescriptorPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/DescriptorPresenter.h
+END
+BetaGridPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/BetaGridPresenter.h
+END
+PolarGridRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/PolarGridRenderer.h
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/Color.h
+END
+PolarGridGraphicsItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/flirtlib/!svn/ver/5/trunk/src/gui/PolarGridGraphicsItem.cpp
+END
+DetectorChooserPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/DetectorChooserPresenter.cpp
+END
+MultiScaleDetectorPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleDetectorPresenter.cpp
+END
+FLIRTDemo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/FLIRTDemo.cpp
+END
+TabbedParameterWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/TabbedParameterWidget.cpp
+END
+DescriptorWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/flirtlib/!svn/ver/5/trunk/src/gui/DescriptorWidget.h
+END
+LaserReadingRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/LaserReadingRenderer.cpp
+END
+ParameterWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/ParameterWidget.h
+END
+MultiScaleCurvatureDetectorPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleCurvatureDetectorPresenter.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/CMakeLists.txt
+END
+BoxParameterWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/BoxParameterWidget.cpp
+END
+SensorStreamWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/SensorStreamWidget.h
+END
+DescriptorChooserPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/DescriptorChooserPresenter.h
+END
+InterestPointRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/InterestPointRenderer.cpp
+END
+RansacPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/RansacPresenter.cpp
+END
+AbstractRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/AbstractRenderer.h
+END
+MultiScaleDetectorPlotWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleDetectorPlotWidget.cpp
+END
+CorrespondenceRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/CorrespondenceRenderer.cpp
+END
+MultiScaleNormalDetectorPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleNormalDetectorPresenter.h
+END
+ShapeContextPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/ShapeContextPresenter.h
+END
+FeatureSetMatcherPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/FeatureSetMatcherPresenter.h
+END
+BetaGridPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/BetaGridPresenter.cpp
+END
+PolarGridRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/PolarGridRenderer.cpp
+END
+Color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/Color.cpp
+END
+RendererWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/RendererWidget.h
+END
+SimplePeakFinderPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/SimplePeakFinderPresenter.h
+END
+DescriptorWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/data/svn/flirtlib/!svn/ver/5/trunk/src/gui/DescriptorWidget.cpp
+END
+ParameterWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/ParameterWidget.cpp
+END
+MultiScaleCurvatureDetectorPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleCurvatureDetectorPresenter.cpp
+END
+PolarGridGraphicsItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/5/trunk/src/gui/PolarGridGraphicsItem.h
+END
+MultiScaleDetectorPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleDetectorPresenter.h
+END
+DetectorChooserPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/DetectorChooserPresenter.h
+END
+DescriptorChooserPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/DescriptorChooserPresenter.cpp
+END
+SensorStreamWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/SensorStreamWidget.cpp
+END
+FLIRTDemo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/FLIRTDemo.h
+END
+TabbedParameterWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/TabbedParameterWidget.h
+END
+LaserReadingRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/LaserReadingRenderer.h
+END
+MultiScaleNormalDetectorPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/MultiScaleNormalDetectorPresenter.cpp
+END
+ShapeContextPresenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/data/svn/flirtlib/!svn/ver/1/trunk/src/gui/ShapeContextPresenter.cpp
+END

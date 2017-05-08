@@ -1,0 +1,14 @@
+<Params>
+<MyIP>192.168.0.3</MyIP>
+<MyPort>0</MyPort>
+<RobotServerIP>192.168.0.7</RobotServerIP>
+<RobotServerPort>26979</RobotServerPort>
+<IndexFile>rgbd_assoc.txt</IndexFile>
+<DepthFilePath>depth</DepthFilePath>
+<RGBFilePath>rgb</RGBFilePath>
+<ID>0</ID>
+<XOffset>0.16</XOffset>
+<YOffset>0</YOffset>
+<ZOffset>-0.18</ZOffset>
+<AngleOffset>90</AngleOffset>
+</Params>

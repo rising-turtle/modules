@@ -1,0 +1,8 @@
+xtion_only = 1 # only start xtion 
+show_xtion = 0 # whether to show xtion view 
+show_xtion_local = 0 # whether to show xtion locally
+server_ip = 192.168.1.7 # server ip address
+xtion_port = 9013 
+sick_port = 9015
+odo_port = 9016
+send_step = 1 # every step send image to server

@@ -1,0 +1,43 @@
+#include "Com.h"
+//#include "../RosCom/RosCom.h"
+
+
+
+typedef int (*CallBack_Reister)(int nSock,int nID,int nType);
+typedef int (*CallBack_Data)(int nSock,int nID,char *pcData,int nDataLen);
+class ExternalCom:public Com
+{
+public:
+	ExternalCom();
+	~ExternalCom();
+
+	virtual int ComRun();
+	virtual int ComInit(char *pcData);
+
+	static CallBack_Reister m_cbRegister;
+	static CallBack_Data m_cbData;
+	static int SendData2Robot(int nDataLen,char *pcData,int nSock);
+private:
+
+
+	pthread_t m_hThreadClientProcess;
+
+	static void* ThreadClientProcess(void* lpParam);
+	static int HeartBit();
+
+	typedef struct  ThreadClientProcessParams
+	{
+			bool bRecv;
+			ExternalCom *pCExternalCom;
+			char cIP[4];
+			int nSock;
+	}ThreadClientProcessParams;
+	static bool m_bStopThreadClientProcess;
+	static ExternalCom *m_pThis;
+
+	static pthread_mutex_t m_MutexSendData;
+
+
+//	static int RegisterCenter(int nSock,int nID,int nType);
+//	static int DataCenter(int nSock,int nID,char *pcData,int nDataLen);
+};

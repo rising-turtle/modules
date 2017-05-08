@@ -1,0 +1,12 @@
+SET DISK_SIGN="F:"
+SET ZheDaBin="%DISK_SIGN%\ZheDa\bin"
+SET DATA_DIR="%DISK_SIGN%\Data\%DATE:~0,4%%DATE:~5,2%%DATE:~8,2%-%TIME:~0,2%%TIME:~3,2%%TIME:~6,2%"
+MKDIR %DATA_DIR% %DATA_DIR%\rgb %DATA_DIR%\depth %DATA_DIR%\log
+START "ROS CORE" "%DISK_SIGN%\ZheDa\DevLibs\SuroROS-1.3-vs2008\bin\suro_ros_core.exe"
+CD /d "%DISK_SIGN%\ZheDa\bin"
+START  "ODO" "%ZheDaBin%\02NR-Mecanum.exe" 
+START  "JOYSTICK" "%ZheDaBin%\NR-JoyStickCtrl.exe"
+START  "LASER" "%ZheDaBin%\01NR-SickLaserCapture.exe"
+START /D%DATA_DIR%\log "LOGGER" "%ZheDaBin%\NR-2dLogger.exe"
+START /D%DATA_DIR% "MYSUB" "%ZheDaBin%\mySub.exe"
+START /D%DATA_DIR% "OPENNI" "%ZheDaBin%\main_mopenni2.exe"
