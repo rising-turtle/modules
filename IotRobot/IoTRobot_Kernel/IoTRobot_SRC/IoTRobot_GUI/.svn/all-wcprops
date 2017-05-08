@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/stdafx.h
+END
+IoTRobot_GUIDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUIDoc.h
+END
+scbarg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/scbarg.cpp
+END
+SIZECBAR.CPP
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/SIZECBAR.CPP
+END
+IoTRobot_GUIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUIView.h
+END
+CoolTabCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/CoolTabCtrl.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/targetver.h
+END
+DlgEditRouteConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgEditRouteConfirm.cpp
+END
+IoTRobot_GUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.h
+END
+DlgControlStick.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgControlStick.h
+END
+IoTRobot_Internal_Define.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_Internal_Define.h
+END
+DlgRobotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgRobotView.h
+END
+DlgPathSetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgPathSetting.cpp
+END
+IoTRobot_GUI.idc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.idc
+END
+DlgPIP.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgPIP.h
+END
+IoTRobot_GUI.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.vcproj
+END
+DlgSLAMSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgSLAMSetting.h
+END
+DlgOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgOptions.h
+END
+OpenGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/OpenGL.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/stdafx.cpp
+END
+IoTRobot_GUI_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI_Interface.h
+END
+IoTRobot_GUIDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUIDoc.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/CMakeLists.txt
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/resource.h
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/MainFrm.h
+END
+IoTRobot_GUIView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUIView.cpp
+END
+IoTRobot_GUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.cpp
+END
+DlgControlStick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgControlStick.cpp
+END
+IoTRobot_GUI.aps
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.aps
+END
+scbarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/scbarg.h
+END
+DlgRobotView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgRobotView.cpp
+END
+SIZECBAR.H
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/SIZECBAR.H
+END
+CoolTabCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/CoolTabCtrl.h
+END
+DlgEditRouteConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgEditRouteConfirm.h
+END
+DlgPIP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgPIP.cpp
+END
+DlgSLAMSetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgSLAMSetting.cpp
+END
+DlgOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgOptions.cpp
+END
+OpenGL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/OpenGL.cpp
+END
+IoTRobot_GUI_Interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI_Interface.cpp
+END
+DlgPathSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/DlgPathSetting.h
+END
+IoTRobot_GUI.vcproj.Iot-PC.Iot.user
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.vcproj.Iot-PC.Iot.user
+END
+IoTRobot_GUI.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/IoTRobot_GUI.rc
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/MainFrm.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_GUI/ReadMe.txt
+END

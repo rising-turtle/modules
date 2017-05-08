@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math
+END
+axis_angle.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/axis_angle.h
+END
+axis_angle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/axis_angle.hpp
+END
+vector_n.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/vector_n.h
+END
+vector_n.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/vector_n.hpp
+END
+matrix_n.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/matrix_n.h
+END
+matrix_n.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/matrix_n.hpp
+END
+rotation_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/rotation_matrix.h
+END
+rotation_matrix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/rotation_matrix.hpp
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/quaternion.h
+END
+quaternion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/quaternion.hpp
+END
+angle.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/angle.h
+END
+transformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/transformation.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/math/CMakeLists.txt
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder
+END
+pred.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/pred.h
+END
+Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/Global.cpp
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/stream.h
+END
+coder.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/coder.h
+END
+def.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/def.h
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/Global.h
+END
+mot_est.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/mot_est.cpp
+END
+dct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/dct.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/config.h
+END
+dct.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/dct.h
+END
+mot_est.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/mot_est.h
+END
+ctables.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/ctables.h
+END
+libr263.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/libr263.cpp
+END
+huffman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/huffman.cpp
+END
+countbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/countbit.cpp
+END
+libr263.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/libr263.h
+END
+quant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/quant.cpp
+END
+rlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/rlib.cpp
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/huffman.h
+END
+struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/struct.h
+END
+pred.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/pred.cpp
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/stream.cpp
+END
+countbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/countbit.h
+END
+coder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/coder.cpp
+END
+owntypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/owntypes.h
+END
+quant.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/quant.h
+END
+rlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Encode/encoder/rlib.h
+END

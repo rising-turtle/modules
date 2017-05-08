@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/extern_dependences/cs_lib
+END
+CS_Lib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/extern_dependences/cs_lib/CS_Lib.lib
+END
+CS_Lib_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/extern_dependences/cs_lib/CS_Lib_d.lib
+END
+CS_Lib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/extern_dependences/cs_lib/CS_Lib.dll
+END
+CS_Lib_d.dll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/extern_dependences/cs_lib/CS_Lib_d.dll
+END
+cs.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/extern_dependences/cs_lib/cs.h
+END

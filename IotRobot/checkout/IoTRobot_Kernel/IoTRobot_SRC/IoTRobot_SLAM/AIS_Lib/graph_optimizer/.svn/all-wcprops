@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer
+END
+graph_optimizer2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/graph_optimizer2d.h
+END
+graph_optimizer3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/graph_optimizer3d.h
+END
+graph_optimizer2d_aux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/graph_optimizer2d_aux.cpp
+END
+graph_optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/graph_optimizer.h
+END
+graph_optimizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/graph_optimizer.hpp
+END
+graph_optimizer2d_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/graph_optimizer2d_aux.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/graph_optimizer/CMakeLists.txt
+END

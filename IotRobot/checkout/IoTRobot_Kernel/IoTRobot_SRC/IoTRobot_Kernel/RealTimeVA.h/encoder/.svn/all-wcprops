@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder
+END
+pred.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/pred.h
+END
+Global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/Global.cpp
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/stream.h
+END
+coder.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/coder.h
+END
+def.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/def.h
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/Global.h
+END
+mot_est.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/mot_est.cpp
+END
+dct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/dct.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/config.h
+END
+dct.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/dct.h
+END
+mot_est.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/mot_est.h
+END
+ctables.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/ctables.h
+END
+libr263.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/libr263.cpp
+END
+huffman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/huffman.cpp
+END
+countbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/countbit.cpp
+END
+libr263.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/libr263.h
+END
+quant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/quant.cpp
+END
+rlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/rlib.cpp
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/huffman.h
+END
+struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/struct.h
+END
+pred.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/pred.cpp
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/stream.cpp
+END
+countbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/countbit.h
+END
+coder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/coder.cpp
+END
+owntypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/owntypes.h
+END
+quant.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/quant.h
+END
+rlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/encoder/rlib.h
+END

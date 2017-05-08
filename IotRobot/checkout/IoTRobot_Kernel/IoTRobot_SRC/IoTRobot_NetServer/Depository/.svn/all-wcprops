@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Log.cpp
+END
+DlgRemoteView.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/DlgRemoteView.dll
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Log.h
+END
+jthread_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/jthread_d.lib
+END
+jrtplib_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/jrtplib_d.lib
+END

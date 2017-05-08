@@ -1,0 +1,12 @@
+2011 12 23
+DlgRemoteView 修改显示RGB的顺序,以便手机端正色显示.问题是,host颜色无法正常显示
+IoTRobot_Kernel  ZH  WholeMapView bug 清除 ；改进传输当前位置的代码，这个位置会与state的回掉函数一起发送给Opengl；
+                 模拟轨迹程序完成，可以实时显示按照给定路线行走当前位置。规划路线已经传到Robot端。
+
+2011 12 19
+IoTRobot_Kerner CommandAndControl 加入钩子,掉出console的关闭信息。修改，关闭console时出现的MFC死机bug
+IoTRobot_Client  ClientNet修改IDRIVE和AUTO模式切换的时候，DlgRemoteView 产生关闭错误
+
+2011 12 15
+DlgRemoteView  解决自适应屏幕分辨率调整remote view的 bug
+IoTRobot_Client  ClientNet框架大改动，删除无用代码，将其它功能整合进clientkernel中去

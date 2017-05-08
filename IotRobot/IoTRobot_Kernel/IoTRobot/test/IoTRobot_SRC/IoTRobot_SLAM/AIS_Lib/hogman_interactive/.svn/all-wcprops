@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/7/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/hogman_interactive
+END
+hogman_slam_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/IoTRobot/!svn/ver/7/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/hogman_interactive/hogman_slam_interface.cpp
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/7/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/hogman_interactive/output.h
+END
+hogman_slam_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/7/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/hogman_interactive/hogman_slam_interface.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IoTRobot/!svn/ver/7/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/hogman_interactive/CMakeLists.txt
+END
+hogman_online.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/7/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/hogman_interactive/hogman_online.cpp
+END

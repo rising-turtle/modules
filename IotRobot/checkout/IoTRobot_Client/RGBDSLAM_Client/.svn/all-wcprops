@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client
+END
+IoTRobot_RGBDSLAM_Client_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/IoTRobot_RGBDSLAM_Client_Interface.h
+END
+CPose3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/CPose3D.cpp
+END
+IoTRobot_RGBDSLAM_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/IoTRobot_RGBDSLAM_Interface.h
+END
+CPose3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/CPose3D.h
+END
+IoTRobot_RGBDSLAM_Client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/IoTRobot_RGBDSLAM_Client.cpp
+END
+Point_Cloud.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/Point_Cloud.cpp
+END
+IoTRobot_RGBDSLAM_Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/IoTRobot_RGBDSLAM_Client.h
+END
+Point_Cloud.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/Point_Cloud.h
+END
+MapBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/MapBuilder.cpp
+END
+PCL_Openni.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/PCL_Openni.cpp
+END
+MapBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/MapBuilder.h
+END
+IoTRobot_RGBDSLAM_Client_Interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/IoTRobot_RGBDSLAM_Client_Interface.cpp
+END
+RGBDSLAM_Client.rar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/RGBDSLAM_Client.rar
+END
+PCL_Openni.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/PCL_Openni.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IoTRobot/!svn/ver/34/IoTRobot_Client/RGBDSLAM_Client/CMakeLists.txt
+END

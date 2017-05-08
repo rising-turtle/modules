@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB
+END
+interf_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/interf_enc.h
+END
+sp_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/sp_dec.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/typedef.h
+END
+interf_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/interf_dec.h
+END
+rom_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/rom_enc.h
+END
+interf_rom.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/interf_rom.h
+END
+sp_enc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/sp_enc.h
+END
+rom_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/RealTimeVA.h/AMRNB/rom_dec.h
+END

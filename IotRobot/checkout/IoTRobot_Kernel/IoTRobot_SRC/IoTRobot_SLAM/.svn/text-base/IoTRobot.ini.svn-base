@@ -1,0 +1,18 @@
+#SURF,FAST,HARRIS,GFTT,STAR,SIFT,MSER,PyramidFAST,PyramidGFTT
+global_feature_detector_type =  FAST 
+global_feature_extractor_type = SURF
+
+global_adjuster_max_keypoints = 1800
+global_adjuster_min_keypoints = 800
+global_fast_adjuster_max_iterations = 10
+global_surf_adjuster_max_iterations = 5
+
+global_min_translation_meter = 0.1
+global_min_rotation_degree = 5
+global_connectivity = 5
+global_potential_nodes = 10
+global_graph_radius = 2
+global_graph_size = 500
+global_bg_graph_threshold=40
+global_max_translation_meter=8
+global_min_inliers = 10

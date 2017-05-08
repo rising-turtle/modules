@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff
+END
+runtime_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/runtime_error.h
+END
+array_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/array_allocator.h
+END
+os_specific.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/os_specific.c
+END
+color_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/color_macros.h
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/macros.h
+END
+os_specific.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/os_specific.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/CMakeLists.txt
+END
+runtime_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_SLAM/AIS_Lib/stuff/runtime_error.cpp
+END

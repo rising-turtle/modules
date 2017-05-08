@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel
+END
+HostPortal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/HostPortal.cpp
+END
+CPose3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CPose3D.cpp
+END
+KernelInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/KernelInterface.cpp
+END
+SLAM.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/SLAM.h
+END
+CommandAndControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CommandAndControl.cpp
+END
+CPolygonCurve.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CPolygonCurve.h
+END
+jthread.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/jthread.lib
+END
+3DMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/3DMap.h
+END
+Storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Storage.h
+END
+CAreaMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CAreaMap.h
+END
+Openni1.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Openni1.h
+END
+IDrive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/IDrive.cpp
+END
+HostPotal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/HostPotal.h
+END
+Point_Cloud.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Point_Cloud.h
+END
+CDynamicArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CDynamicArea.h
+END
+AreaStore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/AreaStore.cpp
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Log.h
+END
+CSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CSession.cpp
+END
+OpenNI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/OpenNI.cpp
+END
+MapBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/MapBuilder.h
+END
+IoTRobot_GUI_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/IoTRobot_GUI_Interface.h
+END
+jrtplib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/jrtplib.lib
+END
+InternalDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/InternalDefine.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CMakeLists.txt
+END
+SLAM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/SLAM.cpp
+END
+IMU.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/IMU.h
+END
+CPolygonCurve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CPolygonCurve.cpp
+END
+ControlDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/ControlDriver.h
+END
+3DMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/3DMap.cpp
+END
+Storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Storage.cpp
+END
+CPose3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CPose3D.h
+END
+KernelInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/KernelInterface.h
+END
+CommandAndControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CommandAndControl.h
+END
+jthread_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/jthread_d.lib
+END
+CAreaMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CAreaMap.cpp
+END
+Openni1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Openni1.cpp
+END
+Point_Cloud.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Point_Cloud.cpp
+END
+CDynamicArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CDynamicArea.cpp
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/Log.cpp
+END
+MapBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/MapBuilder.cpp
+END
+CDynamicArea.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CDynamicArea.hpp
+END
+IDrive.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/IDrive.h
+END
+IMU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/IMU.cpp
+END
+AreaStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/AreaStore.h
+END
+CSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/CSession.h
+END
+ControlDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/ControlDriver.cpp
+END
+OpenNI.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/OpenNI.h
+END
+jrtplib_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_Kernel/jrtplib_d.lib
+END

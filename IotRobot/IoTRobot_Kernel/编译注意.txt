@@ -1,0 +1,1 @@
+IotRobot_GUI 工程不能包括boost的lib，要不kerner无法正常运行，起因未知。

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder
+END
+Sactbls.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Sactbls.h
+END
+h263
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/h263
+END
+GetBits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetBits.cpp
+END
+decstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/decstruct.h
+END
+GetBlk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetBlk.cpp
+END
+DGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/DGlobal.h
+END
+Sac.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Sac.h
+END
+Recon.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Recon.h
+END
+GetHdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetHdr.cpp
+END
+Tmndec.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Tmndec.h
+END
+convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/convert.cpp
+END
+GetPic.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetPic.h
+END
+Idctref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Idctref.cpp
+END
+Indices.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Indices.h
+END
+GetVlc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetVlc.cpp
+END
+Idct.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Idct.h
+END
+Sactbls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Sactbls.cpp
+END
+DGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/DGlobal.cpp
+END
+Sac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Sac.cpp
+END
+Recon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Recon.cpp
+END
+GetBits.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetBits.h
+END
+Tmndec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Tmndec.cpp
+END
+GetPic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetPic.cpp
+END
+GetBlk.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetBlk.h
+END
+Indices.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Indices.cpp
+END
+decdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/decdef.h
+END
+YuvToRgb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/YuvToRgb.cpp
+END
+GetHdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetHdr.h
+END
+Idct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Idct.cpp
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/convert.h
+END
+Idctref.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/Idctref.h
+END
+GetVlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/Decode/decoder/GetVlc.h
+END

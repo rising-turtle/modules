@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA
+END
+CDirectSoundPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CDirectSoundPlayer.cpp
+END
+CDirectSoundPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CDirectSoundPlayer.h
+END
+IoTRobot_RealTimeVideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_RealTimeVideo.cpp
+END
+IoTRobot_RealTimeVA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_RealTimeVA.cpp
+END
+jpegClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/jpegClass.cpp
+END
+CDirectSoundRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CDirectSoundRecorder.cpp
+END
+IoTRobot_RealTimeVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_RealTimeVideo.h
+END
+IoTRobot_RealTimeVA.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_RealTimeVA.h
+END
+CameraDS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CameraDS.cpp
+END
+jpegClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/jpegClass.h
+END
+CDirectSoundRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CDirectSoundRecorder.h
+END
+AMRNB.lib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/AMRNB.lib
+END
+IoTRobot_USBCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_USBCamera.cpp
+END
+CameraDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CameraDS.h
+END
+CVideoAudioBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CVideoAudioBuffer.cpp
+END
+IoTRobot_RTP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_RTP.cpp
+END
+AudioGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/AudioGlobal.h
+END
+IoTRobot_USBCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_USBCamera.h
+END
+CVideoAudioBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/CVideoAudioBuffer.h
+END
+IoTRobot_RTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IoTRobot/!svn/ver/51/IoTRobot_Kernel/IoTRobot_SRC/IoTRobot_NetServer/Depository/RealTimeVA/IoTRobot_RTP.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/IoTRobot/!svn/ver/6/IoTRobot_SRC/IoTRobot_NetServer
+END
+IoTRobot_NetProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/6/IoTRobot_SRC/IoTRobot_NetServer/IoTRobot_NetProtocol.h
+END
+IoTRobot_NetServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IoTRobot/!svn/ver/6/IoTRobot_SRC/IoTRobot_NetServer/IoTRobot_NetServer.cpp
+END
+IoTRobot_NetServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/IoTRobot/!svn/ver/6/IoTRobot_SRC/IoTRobot_NetServer/IoTRobot_NetServer.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/IoTRobot/!svn/ver/6/IoTRobot_SRC/IoTRobot_NetServer/CMakeLists.txt
+END
+IoTRobot_NetServer_Define.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IoTRobot/!svn/ver/6/IoTRobot_SRC/IoTRobot_NetServer/IoTRobot_NetServer_Define.h
+END

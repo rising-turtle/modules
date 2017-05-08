@@ -1,0 +1,11 @@
+Robot Client: "I am Robot: 0001. Request Connection." //37
+Server: "OK. CmdPort:xxxx, KinectPort:xxxx, IDrivePort:xxxx." //51
+
+LePhone Client: "I am LePhone: 0001. Connect Request"
+Server : "OK. Connection Port:xxxx"
+
+
+Kinect Send Frame:
+type 0: 30Hz send depth and RGB frame both with VGA resolution
+type 1: Send Depth and RGB frame under a given frequency and resolution respectively 
+type 2: Send Depth and RGB frame if one request recieved and the resolution must give

@@ -1,0 +1,8 @@
+add_subdirectory(graph)
+add_subdirectory(graph_optimizer)
+add_subdirectory(graph_optimizer_hogman)
+add_subdirectory(hogman_interactive)
+add_subdirectory(math)
+add_subdirectory(stuff)
+add_subdirectory(extern_dependences)
+set(AIS_Src ${AIS_GraphSrc} ${AIS_GphOptSrc} ${AIS_GphOptHogSrc} ${AIS_MathSrc} ${AIS_StuffSrc})
